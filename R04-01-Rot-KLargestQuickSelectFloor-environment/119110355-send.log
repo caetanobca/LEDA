@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-14T22:15:45.232-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.108 at 14-10-2020 22*15*45</message>
+</record>

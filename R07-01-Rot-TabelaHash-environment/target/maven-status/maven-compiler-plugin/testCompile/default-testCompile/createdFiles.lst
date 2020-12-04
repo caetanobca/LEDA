@@ -1,0 +1,7 @@
+mytests\MyTestOpenAddressLinear.class
+mytests\MyTestClosedAddressMultiplicationMethod.class
+mytests\MyTestClosedAddressDivisionMethod.class
+adt\hashtable\closed\StudentTestHashtableClosedAddressDivisionMethod.class
+adt\hashtable\open\StudentTestHashtableOpenAddressLinearProbing.class
+adt\hashtable\closed\StudentTestHashtableClosedAddressMultiplicationMethod.class
+adt\hashtable\open\StudentTestHashtableOpenAddressQuadraticProbing.class

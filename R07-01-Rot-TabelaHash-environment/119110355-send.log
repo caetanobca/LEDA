@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-05T14:17:17.482-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.106 at 05-11-2020 14*17*17</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-05T17:57:19.861-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.106 at 05-11-2020 17*57*19</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-07T21:36:44.312-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.106 at 07-11-2020 21*36*44</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-08T17:37:26.391-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.106 at 08-11-2020 17*37*26</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-09T00:03:14.755-0300</date>
+  <logger>CAETANO BEZERRA CAVALCANTI ALBUQUERQUE</logger>
+  <level>FINE</level>
+  <message>File 119110355-CAETANO BEZERRA CAVALCANTI ALBUQUERQUE.zip was received. It was sent by CAETANO BEZERRA CAVALCANTI ALBUQUERQUE from IP 192.168.0.106 at 09-11-2020 00*03*14</message>
+</record>
